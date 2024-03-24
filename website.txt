@@ -1,0 +1,2 @@
+Note to self: HTML/CSS/JS not worth really learning.
+Just copy a template.

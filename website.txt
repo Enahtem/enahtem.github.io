@@ -1,2 +1,2 @@
-Note to self: HTML/CSS/JS not worth really learning.
-Just copy a template.
+Note to self: HTML/CSS/JS not worth deeply learning.
+Clean, minimalist style. Make your own. Don't use a template.
